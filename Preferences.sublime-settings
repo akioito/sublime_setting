@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Colorsublime-Themes/Editplus.tmTheme",
+	"font_face": "Courier",
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Rust",
+		"Six",
+		"Vintage",
+		"Vintageous"
+	],
+	"material_theme_small_statusbar": true,
+	"neovintageous_build_version": 11100,
+	"show_encoding": true,
+	"theme": "Default.sublime-theme",
+	"vintageous_use_ctrl_keys": null,
+	"vintageous_use_super_keys": null
+}

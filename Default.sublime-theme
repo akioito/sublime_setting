@@ -1,0 +1,15 @@
+ [
+      // Status bar label
+      {
+          "class": "label_control",
+          "parents": [{"class": "status_bar"}],
+          "color": [0, 0, 0],
+          "font.size" : 12,
+      },
+      {
+        "class": "status_bar",
+        "layer0.tint": ["background", 235, 237, 239, 0.9],
+        "layer0.opacity": 1.0,
+        "content_margin": [8, 4, 12, 4]
+      },
+  ]
