@@ -9,6 +9,7 @@ NeoVintageous
 Package Control
 PackageResourceViewer
 Rust Enhanced
+TOML
 
 BetterFindBuffer
 ColorSchemeEditor
