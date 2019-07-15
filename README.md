@@ -5,10 +5,13 @@
 ```
 fish
 Function Name Display
+INI
 NeoVintageous
+nginx
 Package Control
 PackageResourceViewer
 Rust Enhanced
+Rust Autocomplete
 TOML
 
 BetterFindBuffer
