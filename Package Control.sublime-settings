@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BetterFindBuffer",
+		"fish",
+		"Function Name Display",
+		"INI",
+		"Markdown HTML Preview",
+		"NeoVintageous",
+		"nginx",
+		"Package Control",
+		"PackageResourceViewer",
+		"Python Improved",
+		"Rust Enhanced",
+		"RustAutoComplete",
+		"Terminal",
+		"TOML"
+	]
+}
