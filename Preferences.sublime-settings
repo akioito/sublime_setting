@@ -12,9 +12,9 @@
 	"material_theme_small_statusbar": true,
 	"neovintageous_build_version": 11100,
 	"show_encoding": true,
+	"show_full_path": true,
 	"theme": "Default.sublime-theme",
 	"vintageous_use_ctrl_keys": null,
 	"vintageous_use_super_keys": null,
-	"show_full_path": true,
-	"word_wrap": "true",
+	"word_wrap": "true"
 }
